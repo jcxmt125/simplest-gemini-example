@@ -6,6 +6,8 @@ This is possibly the simplest example I could create for Google's Gemini API, us
 
 ## How can I use this?
 
+First, pull this Github repo, download it, or... well, since this really is a small project, you could just copy the code from my Python files! 
+
 You'll need an API Key from Google's [AI studio](https://aistudio.google.com). Get one, and put it in a .env file in your working directory with the variable name GEMINI_API_KEY. It's free up to a certain amount of requests per day, and you can even create one without billing attached! Though, the free tier varies with model... the 1.5 flash model should have more than enough requests for yourself.
 
 After you're done with that, go ahead and install the dependancies... there are only two, google-generativeai and python-dotenv! I've still created a requirements.txt file, but... you probably won't even need that. Just run "pip install -U google-generaticeai python-dotenv" (or, pip install -r requirements.txt) and you should be good to go! When ready, run the "textPrompt.py" in your terminal. If you double-click to run on windows, it'll close as soon as you get a response... which isn't great!
