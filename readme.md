@@ -22,3 +22,11 @@ If you can't install dependancies, make sure your platform supports the google-g
 ## Why did you make this?
 
 Before this I didn't know how to deal with .env files... and put them in plaintext into my code. *If you haven't noticed, that's a bad idea.* So, this was created to experiment with doing just that, making a .env file! Oh, and it's also my first time making a public Github repo... and making a readme.md file for that matter, and also the first time I used requirements.txt. I wanted to make this so my friends could use this as a very basic introduction to some concepts, and possibly random strangers on the internet, too! (The Gemini API is cool too! I might get around to adding image/video/audio processing demos someday since the API does support that.)
+
+## What does it look like?
+
+Depends on what your terminal looks like, but for me, something like...
+
+![image of terminal with the program running](self.png)
+
+...this.
